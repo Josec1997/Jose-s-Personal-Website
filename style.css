@@ -2,7 +2,7 @@ h1{
     text-align: left;
     font-size: medium ;
    color:aqua;
-   font;
+
 }
 
 h2{
@@ -19,7 +19,7 @@ body{
 
  h3, form{
     color: gray;
-    position:relative
-    bottom:0
+    position:relative;
+    bottom:0;
     left:0
   }
