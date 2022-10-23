@@ -1,0 +1,25 @@
+h1{
+    text-align: left;
+    font-size: medium ;
+   color:aqua;
+   font;
+}
+
+h2{
+    font-size: larger;
+    text-align: center;
+    text-decoration: underline;color: aqua;
+    margin-top: 500px;
+}
+
+body{
+    background-image: url(coding\,\ eat\,sleep\ bg.jpg);
+    background-size: cover;
+}
+
+ h3, form{
+    color: gray;
+    position:relative
+    bottom:0
+    left:0
+  }
